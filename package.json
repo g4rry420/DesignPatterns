@@ -1,0 +1,29 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Code examples of Design Patterns in JavaScript ",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./src/**",
+    "fix": "npm prettier --write",
+    "prettier": "prettier --ignore-path=.eslintignore"
+  },
+  "keywords": [
+    "javascript",
+    "design",
+    "patterns",
+    "computer-science",
+    "cs",
+    "design-patterns"
+  ],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.17.3",
+    "npm": ">=6.14.13"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-plugin-import": "^2.25.3"
+  }
+}

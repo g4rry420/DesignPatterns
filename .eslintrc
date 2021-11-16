@@ -1,0 +1,21 @@
+{
+  "env": {
+    "es2021": true
+  },
+  "rules": {
+    "no-var": "error",
+    "no-console": "off",
+    "semi": "error",
+    "indent": "off",
+    "no-multi-spaces": "error",
+    "space-in-parens": "error",
+    "no-multiple-empty-lines": "error",
+    "prefer-const": "error",
+    "no-use-before-define": "error"
+  },
+  "parserOptions": {
+    "sourceType": "module",
+    "allowImportExportEverywhere": true,
+    "requireConfigFile": false
+  }
+}
