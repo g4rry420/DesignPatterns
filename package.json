@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint ./src/**",
-    "fix": "npm prettier --write",
-    "prettier": "prettier --ignore-path=.eslintignore"
+    "lint-fix": "eslint ./src/** --fix"
   },
   "keywords": [
     "javascript",
