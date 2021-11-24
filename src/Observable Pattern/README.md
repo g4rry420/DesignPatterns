@@ -19,5 +19,5 @@ Merit: More Flexibility. </br>
 Demerit: High Coupling. </br>
 
 ## Reference
-[How to Use the Observable Pattern in JavaScript - Eric Fuller](https://webdevstudios.com/2019/02/19/observable-pattern-in-javascript/)
+[How to Use the Observable Pattern in JavaScript - Eric Fuller](https://webdevstudios.com/2019/02/19/observable-pattern-in-javascript/) </br>
 [Push, pull mechanism in observer pattern](https://stackoverflow.com/questions/34706186/push-pull-mechanism-observer-pattern)
