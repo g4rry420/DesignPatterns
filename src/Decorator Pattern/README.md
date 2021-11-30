@@ -7,4 +7,5 @@ To exemplify, imagine you just brought a brand new mobile phone. However, carryi
 The solution to these problems is to buy a phone case with card slots. The phone case is a decorator to your phone which doesn't change it core functionality but extends the a particluar usage of it.
 
 ## Reference
-[Understanding JavaScript Decorator Patterns](https://www.dottedsquirrel.com/understanding-javascript-decorator-patterns/) </br>
+[Understanding JavaScript Decorator Pattern](https://www.dottedsquirrel.com/understanding-javascript-decorator-patterns/) </br>
+[What is the Decorator Pattern](https://www.educative.io/collection/page/5429798910296064/5725579815944192/5660180910964736) </br>
