@@ -4,3 +4,11 @@ In software engineering, a software design pattern is a general, reusable soluti
 It is not a finished design that can be transformed directly into source or machine code. Rather, it is a description or template for how to solve a problem that
 can be used in many different situations. Design patterns are formalized best practices that the programmer can use to solve common problems when designing an
 application or system.
+
+## Object Oriented Design Principles
+
+- Encapculate what varies (Identify the aspects of your application that vary and separate them from what stays the same)
+- Program to an Interface, not an Implementation
+- Favor composition over inheritance
+- Strive for loosely coupled designs between objects that interacts
+- Classes should be open for extension but closed for modification
