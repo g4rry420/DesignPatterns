@@ -9,3 +9,5 @@ The solution to these problems is to buy a phone case with card slots. The phone
 ## Reference
 [Understanding JavaScript Decorator Pattern](https://www.dottedsquirrel.com/understanding-javascript-decorator-patterns/) </br>
 [What is the Decorator Pattern](https://www.educative.io/collection/page/5429798910296064/5725579815944192/5660180910964736) </br>
+[How to implement a decorator design pattern in NodeJS](https://medium.com/@melik.karapetyan1996/how-to-implement-a-decorator-design-pattern-in-nodejs-a1f98cfd8a1e) </br>
+[Javascript Decorator Pattern](https://www.codementor.io/@faizanhaider/javascript-decorator-pattern-9wr03qb20) </br>
